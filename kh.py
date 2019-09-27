@@ -1,3 +1,4 @@
+#ovoj program e  so uvoz na sys elename ucese za argv 
 import sys
 
 if (len(sys.argv) < 3):
